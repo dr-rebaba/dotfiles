@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leo.diaz.trejo@gmail.com
+	name = Leonardo Diaz
